@@ -1,0 +1,1 @@
+This repository comprises my solutions to Todd McLeods "language review" section of his Udemy course at "https://www.udemy.com/course/go-programming-language"
